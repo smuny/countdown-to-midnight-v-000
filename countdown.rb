@@ -8,7 +8,6 @@ def countdown(number)
 end
 number = 12
 while number > 0
-
 puts "HAPPY NEW YEAR!"
 end
 
