@@ -11,3 +11,6 @@ end
 puts "HAPPY NEW YEAR!"
 end
 
+def countdown_with_sleep(sleep_secs)
+  sleep_secs = 1
+end
